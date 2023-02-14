@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    position: fixed;
+    width: 100%;
+    background-color: #f4f4f4;
+    padding: 26px 0;
+    font-size: 24px;
+    z-index: 2;
+}
+.portal{
+    position: relative;
+    left: 76px;
+}
+#truth{
+    position: absolute;
+    right: 80px;
+}
+.half{
+    position: relative;
+    font-size: 24px;
+    z-index: 1;
+}
+.c1, .c2, .c3{
+    width: 274px;
+    position: relative;
+    left: 76px;
+    padding-bottom: 15px;
+    padding-top: 34px;
+    border-radius: 10px;
+}
+.close{
+    position: absolute;
+    top: 13px;
+    right: 18px;
+}
+.c1{
+    top: 141px;
+    margin-bottom: 30px;
+    background-color: #f4f4f4;
+}
+.c2{
+    top: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    background-color: #f4f4f4;
+}
+.c3{
+    background-color: #f4f4f4;
+}
+.lorem{
+    margin: 0 19px 0px 25px;
+}
+.title{
+    font-size: 32px;
+    width: 201px;
+    margin-left: 24px;
+}
+.sticky{
+    position: sticky;
+    background-color: #f4f4f4;
+    width: 1200px;
+    height: 380px;
+    border-radius: 10px;
+    top: 141px;
+    right: 74px;
+    padding: 27px 910px 325px 27px;
+}

@@ -1,0 +1,46 @@
+body {
+    font-size: 20px;
+}
+
+.green {
+    color: #008000;
+}
+
+.zhurek {
+    margin-top: 44px;
+    background-color: #FF9494;
+    width: 200px;
+    height: 130px;
+    text-align: center;
+    padding-top: 70px;
+    border-radius: 50% 50% 50% 0;
+}
+
+.quote {
+    width: 100%;
+    background-color: #3F3F3F;
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    padding: 16px 0;
+    margin-top: 16px;
+    border-radius: 0px 20px 20px 20px;
+}
+
+.title {
+    display: block;
+    font-size: 37px;
+    margin: 17px 0 13px;
+}
+
+.aqua {
+    display: block;
+    margin: 22px 0;
+    color: #A9F0FF;
+}
+.altynym{
+    width: 50%;
+    text-align: center;
+    background-color: #f2f2f2;
+    margin: 28px 236px 52px 235px;
+}
